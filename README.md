@@ -2,6 +2,7 @@
   
 # Hi I'm Taewan 👋
 
+</div>
 ## 📫Contact
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://taewan-study-record.tistory.com/)](https://taewan-study-record.tistory.com/)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kimtaeyan21@gmail.com)](mailto:kimtaeyan21@gmail.com)
