@@ -13,8 +13,6 @@
 ### :mortar_board: Education
 - B.S. in School of Computer Software Engineering, Kumoh National University `2020.03 ~`
 
-## BOJ / solved.ac
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kimtaeyan21)](https://solved.ac/kimtaeyan21/)
 <!--b
 **TaeWan21/TaeWan21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
