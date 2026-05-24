@@ -11,7 +11,7 @@
 - 🔭 I'm currently working on **[한국전자기술연구원(KETI) AI응용연구센터](https://www.keti.re.kr/m/researcher/introduce/map07.php)**
 
 ### :mortar_board: Education
-- B.S. in School of Computer Software Engineering, Kumoh National University `2020.03 ~ 2026.02` _(수석 졸업 / Valedictorian)_
+- B.S. in School of Computer Software Engineering, Kumoh National University `2020.03 ~ 2026.02` _(Graduated with Top Honors · GPA: 4.30/4.5)_
 
 ### 🔬 Research Interests
 - Natural Language Processing (NLP)
