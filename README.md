@@ -1,29 +1,23 @@
 <div align="center">
   
 # Hi I'm Taewan 👋
-
 </div>
 
-## 📫Contact
+## 📫 Contact
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://taewan-study-record.tistory.com/)](https://taewan-study-record.tistory.com/)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kimtaeyan21@gmail.com)](mailto:kimtaeyan21@gmail.com)
 
 ## 🌱 About Me
+- 🔭 I'm currently working on **[한국전자기술연구원(KETI) AI응용연구센터](https://www.keti.re.kr/m/researcher/introduce/map07.php)**
 
 ### :mortar_board: Education
-- B.S. in School of Computer Software Engineering, Kumoh National University `2020.03 ~`
+- B.S. in School of Computer Software Engineering, Kumoh National University `2020.03 ~ 2026.02` _(수석 졸업 / Valedictorian)_
 
-<!--b
-**TaeWan21/TaeWan21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🔬 Research Interests
+- Natural Language Processing (NLP)
+- Generative Models
+- Industrial AI
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌐 **Visit my website → [taewan21.github.io](https://taewan21.github.io)**
