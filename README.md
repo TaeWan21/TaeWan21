@@ -8,14 +8,17 @@
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kimtaeyan21@gmail.com)](mailto:kimtaeyan21@gmail.com)
 
 ## 🌱 About Me
-- 🔭 I'm currently working on **[한국전자기술연구원(KETI) AI응용연구센터](https://www.keti.re.kr/m/researcher/introduce/map07.php)**
+- 🔭 I'm currently a **Research Intern** at the **[Data Mining & Algorithm Lab](https://sites.google.com/view/hyudatalab/home), [Hanyang University](https://www.hanyang.ac.kr/)**, advised by [Prof. Hyunjoon Kim](https://sites.google.com/view/hyudatalab/home)
+- 🏢 Previously a Researcher at **[Korea Electronics Technology Institute (KETI)](https://www.keti.re.kr/m/researcher/introduce/map07.php)**, AI Application Research Center `2026.03 ~ 2026.08`
+- 🧪 Previously an Undergraduate Research Intern at **[HAX Lab](https://haxlab-kit.github.io/)**, Kumoh National Institute of Technology `2025.05 ~ 2026.01`
 
 ### :mortar_board: Education
-- B.S. in School of Computer Software Engineering, Kumoh National University `2020.03 ~ 2026.02`<br>_(Graduated with Top Honors · GPA: 4.30/4.5)_
+- **[Kumoh National Institute of Technology](https://www.kumoh.ac.kr/)**, Gumi, South Korea `2020.03 ~ 2026.02`<br>B.S. in Computer Software Engineering<br>_(Graduated with Top Honors · GPA: 4.30/4.5)_
 
 ### 🔬 Research Interests
 - Natural Language Processing (NLP)
 - Generative Models
+- Multi-Agent Systems
 - Industrial AI
 
 ---
